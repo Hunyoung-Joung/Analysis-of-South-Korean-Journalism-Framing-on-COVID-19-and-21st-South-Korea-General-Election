@@ -1,6 +1,6 @@
 #-*-coding:utf-8-*-
 # Analysis of South Korean Journalism Framing on COVID-19 and 21st South Korea General Election:
-## Topic model and Semantic Network Analysis Leveraging
+## LDA Topic Model and Semantic Network Analysis Leveraging
 
 The goal is to find and determine which framings were used by Korean mass media on the COVID-19 pandemic crisis and the 21st South Korea General Election. The suggested method is using machine learning to extract frames from both issues and compare the similarity to assess whether the Korean mass media was misleading the nature of the matter with Ideology Journalism. 
 The acquired news contents, related to the COVID-19 pandemic crisis are 173,551 articles, and related to the 21st Korean general election are 77,033 articles and it from the BIG KINDS, the big data analysis service provided by the Korea Press Foundation. 
